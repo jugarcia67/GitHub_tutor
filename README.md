@@ -22,3 +22,7 @@ Open the class with the name ``Task`` and complete the assignment.
 Once you finish, click on the ``Run Code`` button, and the tests will run. 
 **Each test's name indicates what it checks**, so if any of the tests 
 don't pass, you can understand what's wrong.
+
+Estoy agregando lineas al README usando el Vi del Bash de Git.
+
+
